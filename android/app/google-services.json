@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "663440165616",
+    "project_id": "employeeshealth-attendance",
+    "storage_bucket": "employeeshealth-attendance.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663440165616:android:661d0ff92f756769a39035",
+        "android_client_info": {
+          "package_name": "com.example.health_attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663440165616-rife00g9pepjst6dbvg8cfe7dtqbamfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCxXNH06S24Hrgohfb8rTAxARehLfKZLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663440165616-rife00g9pepjst6dbvg8cfe7dtqbamfk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "663440165616-94hkdqejj537npj8b1aaa4sfc923nqfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.healthApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
